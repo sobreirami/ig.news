@@ -3,7 +3,6 @@
 <p align="center">
   <img alt="Home" src=".github/home.png" width="50%">
   <img alt="Posts" src=".github/posts.png" width="25%">
- 
 </p>
 
 <p align="center">
